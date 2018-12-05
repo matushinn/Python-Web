@@ -9,7 +9,8 @@ payload = {'key1': 'value1', 'key': 'value2'}
 
 #r = requests.put("http://httpbin.org/put",data=payload)
 
-r = requests.delete("http://httpbin.org/delete",data=payload)
+#r = requests.delete("http://httpbin.org/delete",data=payload)
+
 
 
 print(r.status_code)
