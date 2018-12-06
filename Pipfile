@@ -9,6 +9,8 @@ verify_ssl = true
 requests = "*"
 flask = "*"
 beautifulsoup4 = "*"
+networkx = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.7"
